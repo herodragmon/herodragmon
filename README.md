@@ -1,8 +1,8 @@
 ## Hi, I’m Manash 👋
 
-- Working mostly with **Go** on **Linux**
-- Interested in backend engineering, system design, and automation
-- Exploring AI tools and practical applications
-- Learning by building projects and improving them over time
+- I mostly work with **Go** on **Linux**, building backend and CLI tools  
+- Interested in systems, backend engineering, and automation  
+- Currently exploring AI tools and practical applications  
+- I like learning by building projects and refining them over time  
 
 
